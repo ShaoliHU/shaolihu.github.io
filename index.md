@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://shaolihu.github.io//shaolihu.jpg" class="floatpic">
 
 Here is **Shaoli Hu (Shelley, 胡绍丽)**.<br>
 
